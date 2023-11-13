@@ -1,4 +1,4 @@
-site_name: AGu - Test 20231103
+site_name: AGu - Test of the transformation of html excerpts in a database into mkdocs pages
 theme:
   logo: assets/boro_logo_blue_on_white_40x55.png
   homepage: http://127.0.0.1:8000/documentation/index/
