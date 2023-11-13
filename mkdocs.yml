@@ -1,0 +1,87 @@
+site_name: AGu - Test 20231103
+theme:
+  logo: assets/boro_logo_blue_on_white_40x55.png
+  homepage: http://127.0.0.1:8000/documentation/index/
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.linkç
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: teal
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: teal
+      accent: lime
+
+markdown_extensions:
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Home: 'index.md'
+  - 'bGPlus - Process Description (OXi TEST)':
+      - 'bGPlus - Process Description (OXi TEST)': 'documentation/5950570499.md'
+      - 'bGPlus - Process Description - Conservative Stage': 'documentation/bGPlus---Process-Description---Conservative-Stage_5950930948.md'
+      - 'bGPlus - Process Description - Revisionary Stage': 'documentation/bGPlus---Process-Description---Revisionary-Stage_5951062017.md'
+      - 'bGPlus - Test Picture Storage':
+          - 'bGPlus - Test Picture Storage': 'documentation/bGPlus---Test-Picture-Storage_5950963721.md'
+          - 'Process Diagrams - BG plus (Alternate)': 'documentation/5950996481.md'
+      - https://en.wikipedia.org:
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#edge: 'documentation/PSCUP5TZJQ3KO.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#edge_set: 'documentation/QVGZXK7HRZ6R2.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#vertex_set: 'documentation/34FGQFEUQ2EQ6.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#arrow: 'documentation/PV6EJ4JUWLEOK.md'
+          - https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Graph: 'documentation/PFLM3XFOWELDB.md'
+          - https://en.wikipedia.org/wiki/Graph_theory#Graph: 'documentation/4ITQ6MOPFLYF4.md'
+          - https://en.wikipedia.org/wiki/Multigraph#Undirected_multigraph_(edges_without_own_identity): 'documentation/XFPMGE2TNIRN2.md'
+          - https://en.wikipedia.org/wiki/Multigraph#Undirected_multigraph_(edges_with_own_identity): 'documentation/QFQTZKOAUEG4B.md'
+          - https://en.wikipedia.org/wiki/Multigraph#Directed_multigraph_(edges_without_own_identity): 'documentation/4HNT4MKGCJFE4.md'
+          - https://en.wikipedia.org/wiki/Multigraph#Directed_multigraph_(edges_with_own_identity): 'documentation/T5QA4PPZQIVUS.md'
+          - https://en.wikipedia.org/wiki/Graph_theory#Directed_graph: 'documentation/TYEF3TOLRT7AY.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#edgeless_graph: 'documentation/3LGC5FZN2SPGN.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#simple: 'documentation/ODABTWFI5GNPA.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#direction: 'documentation/ZI4Q6DLSPHPZU.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#hyperarc: 'documentation/OMR6EPBEGIXN2.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#hyperedge: 'documentation/SMB3LDWJBCPMI.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#label: 'documentation/P2O4SO3YAUFAA.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#line: 'documentation/UAVTV4IDTYK7I.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#isomorphism: 'documentation/QJCF5UFVHD4RU.md'
+          - https://en.wikipedia.org/wiki/Graph_database#Labeled-property_graph: 'documentation/UP7DJ76G25JTI.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#endpoint: 'documentation/SWK5ONJPHS7IK.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#direct_successor: 'documentation/ZB6ZIHMWBRF3D.md'
+          - https://en.wikipedia.org/wiki/Glossary_of_graph_theory#direct_predecessor: 'documentation/UFJSICE2LZ6MH.md'
+
+copyright: |
+  &copy; 2023 <a href="https://borosolutions.net"  target="_blank" rel="noopener">BORO SOLUTIONS LTDA.</a>
