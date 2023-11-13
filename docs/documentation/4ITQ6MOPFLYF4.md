@@ -1,7 +1,5 @@
 # https://en.wikipedia.org/wiki/Graph_theory#Graph
 
-<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr">
-
 ### <span id="Graph" class="mw-headline">Graph</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](/w/index.php?title=Graph_theory&action=edit&section=1 "Edit section: Graph")<span class="mw-editsection-bracket">\]</span></span>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb">
@@ -272,4 +270,3 @@ style="vertical-align: -0.338ex; width:1.827ex; height:2.176ex;"
 aria-hidden="true" alt="G" /></span> that is called the **adjacency
 relation** of
 
-</div>

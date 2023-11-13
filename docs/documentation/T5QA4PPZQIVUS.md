@@ -1,6 +1,5 @@
 # https://en.wikipedia.org/wiki/Multigraph#Directed_multigraph\_(edges_with_own_identity)
 
-<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr">
 
 ## <span id="Directed_multigraph_.28edges_with_own_identity.29"></span><span id="Directed_multigraph_(edges_with_own_identity)" class="mw-headline">Directed multigraph (edges with own identity)</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](/w/index.php?title=Multigraph&action=edit&section=1 "Edit section: Directed multigraph (edges with own identity)")<span class="mw-editsection-bracket">\]</span></span>
 
@@ -42,4 +41,3 @@ composition. For this reason, in category theory the term *graph* is
 standardly taken to mean "multidigraph", and the underlying multidigraph
 of a category is called its **underlying digraph**.
 
-</div>

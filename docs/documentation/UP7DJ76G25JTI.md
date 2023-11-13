@@ -1,6 +1,5 @@
 # https://en.wikipedia.org/wiki/Graph_database#Labeled-property_graph
 
-<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr">
 
 ### <span id="Labeled-property_graph" class="mw-headline">Labeled-property graph</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](/w/index.php?title=Graph_database&action=edit&section=1 "Edit section: Labeled-property graph")<span class="mw-editsection-bracket">\]</span></span>
 
@@ -19,7 +18,6 @@ Direct storage of relationships allows a
 [constant-time](/wiki/Time_complexity#Constant_time "Time complexity")
 [traversal](/wiki/Graph_traversal "Graph traversal").<sup>[\[3\]](#cite_note-:32-3)</sup>
 
-<div class="mw-references-wrap">
 
 1.  <span id="cite_note-1"><span class="mw-cite-backlink">**[^](#cite_ref-1)**</span>
     <span class="reference-text"></span></span>
@@ -62,6 +60,3 @@ Direct storage of relationships allows a
     rel="nofollow">24135261</a>.<span class="Z3988"
     title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bioinformatics&amp;rft.atitle=Are+graph+databases+ready+for+bioinformatics%3F&amp;rft.volume=29&amp;rft.issue=24&amp;rft.pages=3107-3108&amp;rft.date=2013-10-17&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3842757%23id-name%3DPMC&amp;rft.issn=1460-2059&amp;rft_id=info%3Apmid%2F24135261&amp;rft_id=info%3Adoi%2F10.1093%2Fbioinformatics%2Fbtt549&amp;rft.aulast=Have&amp;rft.aufirst=Christian+Theil&amp;rft.au=Jensen%2C+Lars+Juhl&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3842757&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGraph+database"></span></span></span>
 
-</div>
-
-</div>

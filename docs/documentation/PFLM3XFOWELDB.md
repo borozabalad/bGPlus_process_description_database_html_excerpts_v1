@@ -1,7 +1,5 @@
 # https://en.wikipedia.org/wiki/Graph\_(discrete_mathematics)#Graph
 
-<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr">
-
 ### <span id="Graph" class="mw-headline"><span id="Undirected_graph" class="anchor"></span> Graph</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](/w/index.php?title=Graph_(discrete_mathematics)&action=edit&section=1 "Edit section: Graph")<span class="mw-editsection-bracket">\]</span></span>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb">
@@ -118,8 +116,6 @@ positive integer. Undirected graphs will have a
 (meaning <span class="texhtml">*A<sub>ij</sub>* =
 *A<sub>ji</sub>*</span>).
 
-<div class="mw-references-wrap">
-
 1.  <span id="cite_note-FOOTNOTEBenderWilliamson2010148-1"><span class="mw-cite-backlink">**[^](#cite_ref-FOOTNOTEBenderWilliamson2010148_1-0)**</span>
     <span class="reference-text">[Bender & Williamson
     2010](#CITEREFBenderWilliamson2010), p. 148.</span></span>
@@ -137,6 +133,3 @@ positive integer. Undirected graphs will have a
     the [help
     page](/wiki/Help:Cite_errors/Cite_error_references_no_text "Help:Cite errors/Cite error references no text")).</span></span>
 
-</div>
-
-</div>

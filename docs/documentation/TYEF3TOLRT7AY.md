@@ -1,14 +1,9 @@
 # https://en.wikipedia.org/wiki/Graph_theory#Directed_graph
 
-<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr">
-
 ### <span id="Directed_graph" class="mw-headline">Directed graph</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](/w/index.php?title=Graph_theory&action=edit&section=1 "Edit section: Directed graph")<span class="mw-editsection-bracket">\]</span></span>
-
-<div class="hatnote navigation-not-searchable" role="note">
 
 Main article: [Directed graph](/wiki/Directed_graph "Directed graph")
 
-</div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb">
 <a href="/wiki/File:Directed.svg" class="mw-file-description"><img
@@ -265,4 +260,3 @@ alt="{\\displaystyle \\phi :E\\to \\left\\{(x,y)\\mid (x,y)\\in V^{2}\\right\\}}
 To avoid ambiguity, these types of objects may be called precisely a
 **directed simple graph permitting loops** an
 
-</div>
