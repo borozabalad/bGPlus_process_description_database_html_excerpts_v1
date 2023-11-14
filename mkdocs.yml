@@ -1,4 +1,10 @@
 site_name: AGu - Test of the transformation of html excerpts in a database into mkdocs pages
+site_url: ""
+use_directory_urls: false
+site_dir: "distributable_static_site_local_files"
+
+plugins: []
+
 theme:
   logo: assets/boro_logo_blue_on_white_40x55.png
   homepage: http://127.0.0.1:8000/documentation/index/
