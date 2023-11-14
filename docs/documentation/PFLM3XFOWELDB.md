@@ -3,13 +3,14 @@
 ### <span id="Graph" class="mw-headline"><span id="Undirected_graph" class="anchor"></span> Graph</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](/w/index.php?title=Graph_(discrete_mathematics)&action=edit&section=1 "Edit section: Graph")<span class="mw-editsection-bracket">\]</span></span>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb">
-<a href="/wiki/File:Undirected.svg" class="mw-file-description"><img
-src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Undirected.svg/220px-Undirected.svg.png"
-class="mw-file-element" decoding="async"
-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Undirected.svg/330px-Undirected.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Undirected.svg/440px-Undirected.svg.png 2x"
-data-file-width="100" data-file-height="100" width="220"
-height="220" /></a>
-<figcaption>A graph with three vertices and three edges</figcaption>
+    <a href="/wiki/File:Undirected.svg" class="mw-file-description">
+        <img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Undirected.svg/220px-Undirected.svg.png"
+            class="mw-file-element" decoding="async"
+            srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Undirected.svg/330px-Undirected.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Undirected.svg/440px-Undirected.svg.png 2x"
+            data-file-width="100" data-file-height="100" width="220"
+            height="220" />
+    </a>
+    <figcaption>A graph with three vertices and three edges</figcaption>
 </figure>
 
 A **graph** (sometimes called an *undirected graph* to distinguish it
