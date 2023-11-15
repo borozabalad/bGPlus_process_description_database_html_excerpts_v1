@@ -7,6 +7,7 @@ plugins: []
 
 theme:
   logo: assets/boro_logo_blue_on_white_40x55.png
+  favicon: assets/RadarRingsAndAnchor_Simplified_273x273.ico
   homepage: http://127.0.0.1:8000/documentation/index/
   name: material
   features:
