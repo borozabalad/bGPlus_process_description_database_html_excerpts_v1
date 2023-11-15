@@ -10,6 +10,8 @@ theme:
   favicon: assets/RadarRingsAndAnchor_Simplified_273x273.ico
   homepage: http://127.0.0.1:8000/documentation/index/
   name: material
+  font:
+    text: Sarabun
   features:
     - navigation.instant
     - navigation.tabs
